@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "desinsly",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "desinsly-db",
+      "database_id": "bad06e05-11b5-43be-8f9b-a19f0d74f11b"
+    }
+  ]
+}
